@@ -1,0 +1,20 @@
+[
+  {
+    "Departamento": "\u2018Departamento de Opera\u00E7\u00F5es Especiais",
+    "MesVigencia": "Abril",
+    "AnoVigente": 2022,
+    "TotalPagar": 18975.87,
+    "TotalDescontos": 221.94,
+    "TotalExtras": 2108.43,
+    "Funcionarios": {
+      "Nome": "Jo\u00E3o da Silva",
+      "Codigo": 1,
+      "TotalReceber": 18975.87,
+      "HorasExtras": 19,
+      "HorasDebito": 0,
+      "DiasFalta": 2,
+      "DiasExtras": 0,
+      "DiasTrabalhados": 19
+    }
+  }
+]

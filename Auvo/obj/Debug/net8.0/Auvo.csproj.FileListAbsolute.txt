@@ -1,0 +1,14 @@
+C:\Users\ronie\OneDrive\Área de Trabalho\Auvo\Projeto2\Auvo\bin\Debug\net8.0\Auvo.exe
+C:\Users\ronie\OneDrive\Área de Trabalho\Auvo\Projeto2\Auvo\bin\Debug\net8.0\Auvo.deps.json
+C:\Users\ronie\OneDrive\Área de Trabalho\Auvo\Projeto2\Auvo\bin\Debug\net8.0\Auvo.runtimeconfig.json
+C:\Users\ronie\OneDrive\Área de Trabalho\Auvo\Projeto2\Auvo\bin\Debug\net8.0\Auvo.dll
+C:\Users\ronie\OneDrive\Área de Trabalho\Auvo\Projeto2\Auvo\bin\Debug\net8.0\Auvo.pdb
+C:\Users\ronie\OneDrive\Área de Trabalho\Auvo\Projeto2\Auvo\obj\Debug\net8.0\Auvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronie\OneDrive\Área de Trabalho\Auvo\Projeto2\Auvo\obj\Debug\net8.0\Auvo.AssemblyInfoInputs.cache
+C:\Users\ronie\OneDrive\Área de Trabalho\Auvo\Projeto2\Auvo\obj\Debug\net8.0\Auvo.AssemblyInfo.cs
+C:\Users\ronie\OneDrive\Área de Trabalho\Auvo\Projeto2\Auvo\obj\Debug\net8.0\Auvo.csproj.CoreCompileInputs.cache
+C:\Users\ronie\OneDrive\Área de Trabalho\Auvo\Projeto2\Auvo\obj\Debug\net8.0\Auvo.dll
+C:\Users\ronie\OneDrive\Área de Trabalho\Auvo\Projeto2\Auvo\obj\Debug\net8.0\refint\Auvo.dll
+C:\Users\ronie\OneDrive\Área de Trabalho\Auvo\Projeto2\Auvo\obj\Debug\net8.0\Auvo.pdb
+C:\Users\ronie\OneDrive\Área de Trabalho\Auvo\Projeto2\Auvo\obj\Debug\net8.0\Auvo.genruntimeconfig.cache
+C:\Users\ronie\OneDrive\Área de Trabalho\Auvo\Projeto2\Auvo\obj\Debug\net8.0\ref\Auvo.dll

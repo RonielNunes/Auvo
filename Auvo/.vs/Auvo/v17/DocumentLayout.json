@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronie\\OneDrive\\\u00C1rea de Trabalho\\Auvo\\Projeto2\\Auvo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0A0173-E6CF-4CBE-9E9A-1D0D4584BC07}|Presentation.csproj|c:\\users\\ronie\\onedrive\\\u00E1rea de trabalho\\auvo\\projeto2\\auvo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0A0173-E6CF-4CBE-9E9A-1D0D4584BC07}|Presentation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61865280-44E1-4AC9-99A3-95392334AB04}|..\\Application\\Application.csproj|c:\\users\\ronie\\onedrive\\\u00E1rea de trabalho\\auvo\\projeto2\\application\\application\\folhadepontoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2219,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FolhaDePontoApplication.cs",
+              "DocumentMoniker": "C:\\Users\\ronie\\OneDrive\\\u00C1rea de Trabalho\\Auvo\\Projeto2\\Application\\Application\\FolhaDePontoApplication.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Application\\FolhaDePontoApplication.cs",
+              "ToolTip": "C:\\Users\\ronie\\OneDrive\\\u00C1rea de Trabalho\\Auvo\\Projeto2\\Application\\Application\\FolhaDePontoApplication.cs",
+              "RelativeToolTip": "..\\Application\\Application\\FolhaDePontoApplication.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:54:34.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ronie\\OneDrive\\\u00C1rea de Trabalho\\Auvo\\Projeto2\\Auvo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ronie\\OneDrive\\\u00C1rea de Trabalho\\Auvo\\Projeto2\\Auvo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwEAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:53:57.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

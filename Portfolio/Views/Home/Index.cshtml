@@ -1,0 +1,82 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <!-- Link Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+
+        .social-icons {
+            margin-top: 20px;
+        }
+
+        .social-icons a {
+            margin: 0 10px;
+            color: #333;
+            text-decoration: none;
+            font-size: 2em;
+            transition: color 0.3s ease;
+        }
+        .social-icons a:hover {
+            color: #007BFF; 
+        }
+
+        .image-container {
+            width: 150px; 
+            height: 150px;
+            border-radius: 50%;
+            overflow: hidden;
+            border: 2px solid #ddd;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+
+        .image-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; 
+            position: absolute;
+            transition: opacity 1s; 
+        }
+
+        .hidden {
+            opacity: 1;
+        }
+
+    </style>
+</head>
+<body>
+    <h3>Desafio Auvo Desenvolvimento</h3>
+
+    <div>
+
+        <div class="image-container">
+            <img class="hidden" src="https://media.licdn.com/dms/image/v2/D4D03AQFxC_2sgbcmLA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1678912497951?e=1729728000&v=beta&t=ai3oey9tusgJcIvrjbo83c7CmGVgR90orPVewB7Z0Eo" alt="Imagem do Candidato" />
+        </div>
+
+        <br>
+        <p>@ViewBag.Nome</p>
+        <br>
+        <p><strong>Cargo Pretendido</strong>: @ViewBag.CargoPretendido</p>
+        <p><strong>Pretensão Salarial</strong>: @ViewBag.PretensaoSalarial</p>
+        <p><strong>Data do Teste</strong>: @ViewBag.DataTeste</p>
+    </div>
+
+    <div class="social-icons">
+        <a href="https://github.com/RonielNunes" target="_blank">
+            <i class="fab fa-github"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/roniel-barbosa-59b2251b6/" target="_blank">
+            <i class="fab fa-linkedin"></i>
+        </a>
+    </div>
+</body>
+</html>
