@@ -1,0 +1,72 @@
+[
+  {
+    "Departamento": "Departamento de Operações Especiais",
+    "MesVigencia": "Abril",
+    "AnoVigente": 2022,
+    "TotalPagar": 18975.87,
+    "TotalDescontos": 221.94,
+    "TotalExtras": 2108.43,
+    "Funcionarios": [
+      {
+        "Nome": "João da Silva",
+        "Codigo": 1,
+        "TotalReceber": 18975.87,
+        "HorasExtras": 19,
+        "HorasDebito": 0,
+        "DiasFalta": 2,
+        "DiasExtras": 0,
+        "DiasTrabalhados": 19
+      }
+    ]
+  },
+  {
+    "Departamento": "Departamento de Operações Especiais",
+    "MesVigencia": "junho",
+    "AnoVigente": 2022,
+    "TotalPagar": 18975.87,
+    "TotalDescontos": 332.91,
+    "TotalExtras": 2108.43,
+    "Funcionarios": [
+      {
+        "Nome": "João da Silva",
+        "Codigo": 3,
+        "TotalReceber": 18975.87,
+        "HorasExtras": 19,
+        "HorasDebito": 0,
+        "DiasFalta": 3,
+        "DiasExtras": 0,
+        "DiasTrabalhados": 19
+      }
+    ]
+  },
+  {
+    "Departamento": "Departamento de Operações Especiais",
+    "MesVigencia": "Maio",
+    "AnoVigente": 2022,
+    "TotalPagar": 36075.87,
+    "TotalDescontos": 632.91,
+    "TotalExtras": 4008.43,
+    "Funcionarios": [
+      {
+        "Nome": "João da Silva",
+        "Codigo": 2,
+        "TotalReceber": 18975.87,
+        "HorasExtras": 19,
+        "HorasDebito": 0,
+        "DiasFalta": 3,
+        "DiasExtras": 0,
+        "DiasTrabalhados": 19
+      },
+      {
+        "Nome": "Julia Menezes",
+        "Codigo": 3,
+        "TotalReceber": 17100.00,
+        "HorasExtras": 19,
+        "HorasDebito": 0,
+        "DiasFalta": 3,
+        "DiasExtras": 0,
+        "DiasTrabalhados": 19
+      }
+    ]
+  }
+]
