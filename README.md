@@ -12,10 +12,12 @@ Neste desafio, foi proposta a leitura das folhas de ponto e a geração de um ar
 
 > Vídeo de demonstração projeto 1:
 
-Video : arrastar para o readme para fazer o upload. GG
+https://github.com/user-attachments/assets/38c08a70-bfc7-44f0-8e06-c2ec1a9ad00f
+
 
 ### Folha de Pagamento
 
 > Vídeo de demonstração projeto 2:
 
-Video : arrastar para o readme para fazer o upload. GG
+https://github.com/user-attachments/assets/6fdd636d-a7da-4876-a4cb-2af916c160c2
+
